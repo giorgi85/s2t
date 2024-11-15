@@ -7,7 +7,7 @@ set -e
 pip install --upgrade pip
 
 # Install required Python packages
-pip install -r /workspace/requirements.txt
+pip install -r requirements.txt
 
 # Any other custom setup steps can go here
 echo "Setup complete!"
